@@ -1,0 +1,38 @@
+* {
+    font-family: Arial, sans-serif;
+    
+}
+body{
+    background-color:#f0f9ff;
+    color: #0f172a;
+}
+.background {
+    background-color: #0284c7;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    
+}
+h2 {
+    color: #0369a1;
+    text-transform: capitalize;
+}
+.services ul {
+    list-style: none;
+    cursor: pointer;
+}
+
+.services li::before {
+    content: "🦷 ";
+}
+
+.services li:hover {
+    color: #0284c7;
+    }
+.footer {
+    text-align: center;
+    color: #fff;
+    font-size: 32px;
+    font-weight: 900;
+    background-color: #0284c7;
+}

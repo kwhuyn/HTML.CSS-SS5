@@ -1,0 +1,35 @@
+#box{
+    background-color: rgb(131, 235, 131);
+    font-size: 25px;
+}
+.div-2{
+    color: rgb(9, 9, 9);
+    background-color: rgb(240, 134, 134);
+}
+.font-500{
+    font-weight: 500;
+}
+.text-24px{
+    font-size: 24px;
+}
+.button{
+    height: 36px;
+    background-color: rgb(48, 215, 215);
+    color: #fff;
+    font-weight: 500;
+    border-radius: 8px;
+}
+.button:hover{
+    background-color: rgb(224, 112, 112);
+    cursor: pointer;
+}
+.button:focus {
+    background-color: rgb(238, 38, 38);
+}
+.button:active {
+    background-color: rgb(20, 217, 234);
+}
+.heading-3{
+    color:rgb(245, 34, 241) !important;
+    text-align: left;
+}
